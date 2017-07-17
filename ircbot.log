@@ -1,0 +1,494 @@
+1500308143.801383804 >>> NICK :eva
+1500308144.310454238 >>> USER eva 8 * :eva
+1500308144.322283698 <<< :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1500308144.332802052 <<< :verne.freenode.net NOTICE * :*** Checking Ident
+1500308144.341604756 <<< :verne.freenode.net NOTICE * :*** Found your hostname
+1500308144.350528861 <<< :verne.freenode.net NOTICE * :*** No Ident response
+1500308144.535663738 <<< :verne.freenode.net 001 eva :Welcome to the freenode Internet Relay Chat Network eva
+1500308144.546532471 <<< :verne.freenode.net 002 eva :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+1500308144.555863412 <<< :verne.freenode.net 003 eva :This server was created Sat Jan 7 2017 at 11:53:54 EST
+1500308144.573183624 <<< :verne.freenode.net 004 eva verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+1500308144.601760440 <<< :verne.freenode.net 005 eva CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+1500308144.630316209 <<< :verne.freenode.net 005 eva CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+1500308144.645956810 <<< :verne.freenode.net 005 eva SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+1500308144.654589959 <<< :verne.freenode.net 251 eva :There are 127 users and 92005 invisible on 29 servers
+1500308144.664340242 <<< :verne.freenode.net 252 eva 29 :IRC Operators online
+1500308144.674627306 <<< :verne.freenode.net 253 eva 58 :unknown connection(s)
+1500308144.685654739 <<< :verne.freenode.net 254 eva 50542 :channels formed
+1500308144.694115255 <<< :verne.freenode.net 255 eva :I have 5415 clients and 2 servers
+1500308144.705649727 <<< :verne.freenode.net 265 eva 5415 6861 :Current local users 5415, max 6861
+1500308144.716288546 <<< :verne.freenode.net 266 eva 92132 97718 :Current global users 92132, max 97718
+1500308145.508895384 <<< :verne.freenode.net 250 eva :Highest connection count: 6863 (6861 clients) (2105838 connections received)
+1500308145.516430074 <<< :verne.freenode.net 375 eva :- verne.freenode.net Message of the Day - 
+1500308145.525701983 <<< :verne.freenode.net 372 eva :- Welcome to verne.freenode.net in Amsterdam, NL.
+1500308145.536315979 <<< :verne.freenode.net 372 eva :- Thanks to http://www.hyperfilter.com/ for sponsoring
+1500308145.547316610 <<< :verne.freenode.net 372 eva :- this server!
+1500308145.556702240 <<< :verne.freenode.net 372 eva :-  
+1500308145.564451911 <<< :verne.freenode.net 372 eva :-  
+1500308145.575407140 <<< :verne.freenode.net 372 eva :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+1500308145.585133140 <<< :verne.freenode.net 372 eva :- a pioneering french author known for novels such as Twenty
+1500308145.593225190 <<< :verne.freenode.net 372 eva :- Thousand Leagues Under the Sea, A Journey to the Center of the
+1500308145.602280213 <<< :verne.freenode.net 372 eva :- Earth, and Around the World in Eighty Days. Often lauded as the
+1500308145.610473932 <<< :verne.freenode.net 372 eva :- Father of science fiction, Verne wrote about concepts such as
+1500308145.618375735 <<< :verne.freenode.net 372 eva :- space travel, skyscrapers, and worldwide communications
+1500308145.628662369 <<< :verne.freenode.net 372 eva :- networks long before these ideas became popularised or realised.
+1500308145.639078308 <<< :verne.freenode.net 372 eva :-  
+1500308145.650785582 <<< :verne.freenode.net 372 eva :- Welcome to freenode - supporting the free and open source
+1500308145.658801158 <<< :verne.freenode.net 372 eva :- software communities since 1998.
+1500308145.666200349 <<< :verne.freenode.net 372 eva :-  
+1500308145.675178228 <<< :verne.freenode.net 372 eva :- By connecting to freenode you indicate that you have read and
+1500308145.683091374 <<< :verne.freenode.net 372 eva :- accept our policies as set out on http://www.freenode.net
+1500308145.691977673 <<< :verne.freenode.net 372 eva :- freenode runs an open proxy scanner. Please join #freenode for
+1500308145.698945895 <<< :verne.freenode.net 372 eva :- any network-related questions or queries, where a number of
+1500308145.706972543 <<< :verne.freenode.net 372 eva :- volunteer staff and helpful users will be happy to assist you.
+1500308145.720888673 <<< :verne.freenode.net 372 eva :-  
+1500308145.728728871 <<< :verne.freenode.net 372 eva :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+1500308145.737152339 <<< :verne.freenode.net 372 eva :- together with like-minded FOSS enthusiasts for talks and
+1500308145.748474189 <<< :verne.freenode.net 372 eva :- real-life collaboration.
+1500308145.756431478 <<< :verne.freenode.net 372 eva :-  
+1500308145.764757249 <<< :verne.freenode.net 372 eva :- We would like to thank Private Internet Access
+1500308145.776359890 <<< :verne.freenode.net 372 eva :- (https://www.privateinternetaccess.com/) and the other
+1500308145.785583507 <<< :verne.freenode.net 372 eva :- organisations that help keep freenode and our other projects
+1500308145.794110239 <<< :verne.freenode.net 372 eva :- running for their sustained support.
+1500308145.801386467 <<< :verne.freenode.net 372 eva :-  
+1500308145.810301876 <<< :verne.freenode.net 372 eva :- In particular we would like to thank the sponsor
+1500308145.817638237 <<< :verne.freenode.net 372 eva :- of this server, details of which can be found above.
+1500308145.826445380 <<< :verne.freenode.net 372 eva :-  
+1500308145.835012519 <<< :verne.freenode.net 372 eva :- By connecting to freenode you indicate that you have read and
+1500308145.845177996 <<< :verne.freenode.net 372 eva :- agree with our policies and guidelines as published on
+1500308145.853826230 <<< :verne.freenode.net 372 eva :- https://freenode.net
+1500308145.862407555 <<< :verne.freenode.net 376 eva :End of /MOTD command.
+1500308145.870586796 <<< :eva MODE eva :+i
+1500308298.536220279 >>> PONG :verne.freenode.net
+1500308298.538530511 <<< PING :verne.freenode.net
+1500308438.539323921 >>> PONG :verne.freenode.net
+1500308438.541692112 <<< PING :verne.freenode.net
+1500308537.013409533 >>> NICK :eva
+1500308537.487609410 >>> USER eva 8 * :eva
+1500308537.499105296 <<< :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1500308537.507356970 <<< :verne.freenode.net NOTICE * :*** Checking Ident
+1500308537.516369718 <<< :verne.freenode.net NOTICE * :*** Found your hostname
+1500308537.526377022 <<< :verne.freenode.net NOTICE * :*** No Ident response
+1500308537.712782173 <<< :verne.freenode.net 001 eva :Welcome to the freenode Internet Relay Chat Network eva
+1500308538.184835886 >>> JOIN :#proglangdesign
+1500308538.195733014 <<< :verne.freenode.net 002 eva :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+1500308538.206407479 <<< :verne.freenode.net 003 eva :This server was created Sat Jan 7 2017 at 11:53:54 EST
+1500308538.223822713 <<< :verne.freenode.net 004 eva verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+1500308538.251948544 <<< :verne.freenode.net 005 eva CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+1500308538.283420520 <<< :verne.freenode.net 005 eva CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+1500308538.298374106 <<< :verne.freenode.net 005 eva SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+1500308538.307347849 <<< :verne.freenode.net 251 eva :There are 127 users and 91994 invisible on 29 servers
+1500308538.318748915 <<< :verne.freenode.net 252 eva 29 :IRC Operators online
+1500308538.330434658 <<< :verne.freenode.net 254 eva 50547 :channels formed
+1500308538.338413029 <<< :verne.freenode.net 255 eva :I have 5362 clients and 2 servers
+1500308538.349638490 <<< :verne.freenode.net 265 eva 5362 6861 :Current local users 5362, max 6861
+1500308538.360260357 <<< :verne.freenode.net 266 eva 92121 97718 :Current global users 92121, max 97718
+1500308538.371155694 <<< :verne.freenode.net 250 eva :Highest connection count: 6863 (6861 clients) (2105848 connections received)
+1500308538.380771254 <<< :verne.freenode.net 375 eva :- verne.freenode.net Message of the Day - 
+1500308538.392559983 <<< :verne.freenode.net 372 eva :- Welcome to verne.freenode.net in Amsterdam, NL.
+1500308538.400515898 <<< :verne.freenode.net 372 eva :- Thanks to http://www.hyperfilter.com/ for sponsoring
+1500308538.408497485 <<< :verne.freenode.net 372 eva :- this server!
+1500308538.417888363 <<< :verne.freenode.net 372 eva :-  
+1500308538.427684475 <<< :verne.freenode.net 372 eva :-  
+1500308538.439574985 <<< :verne.freenode.net 372 eva :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+1500308538.449912767 <<< :verne.freenode.net 372 eva :- a pioneering french author known for novels such as Twenty
+1500308538.460968721 <<< :verne.freenode.net 372 eva :- Thousand Leagues Under the Sea, A Journey to the Center of the
+1500308538.469706613 <<< :verne.freenode.net 372 eva :- Earth, and Around the World in Eighty Days. Often lauded as the
+1500308538.478957873 <<< :verne.freenode.net 372 eva :- Father of science fiction, Verne wrote about concepts such as
+1500308538.490243703 <<< :verne.freenode.net 372 eva :- space travel, skyscrapers, and worldwide communications
+1500308538.500263636 <<< :verne.freenode.net 372 eva :- networks long before these ideas became popularised or realised.
+1500308538.509038404 <<< :verne.freenode.net 372 eva :-  
+1500308538.518289045 <<< :verne.freenode.net 372 eva :- Welcome to freenode - supporting the free and open source
+1500308538.530153751 <<< :verne.freenode.net 372 eva :- software communities since 1998.
+1500308538.539772714 <<< :verne.freenode.net 372 eva :-  
+1500308538.549192963 <<< :verne.freenode.net 372 eva :- By connecting to freenode you indicate that you have read and
+1500308538.559784437 <<< :verne.freenode.net 372 eva :- accept our policies as set out on http://www.freenode.net
+1500308538.569529712 <<< :verne.freenode.net 372 eva :- freenode runs an open proxy scanner. Please join #freenode for
+1500308538.578562843 <<< :verne.freenode.net 372 eva :- any network-related questions or queries, where a number of
+1500308538.587340754 <<< :verne.freenode.net 372 eva :- volunteer staff and helpful users will be happy to assist you.
+1500308538.598027788 <<< :verne.freenode.net 372 eva :-  
+1500308538.607442605 <<< :verne.freenode.net 372 eva :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+1500308538.616608528 <<< :verne.freenode.net 372 eva :- together with like-minded FOSS enthusiasts for talks and
+1500308538.625859204 <<< :verne.freenode.net 372 eva :- real-life collaboration.
+1500308538.634954070 <<< :verne.freenode.net 372 eva :-  
+1500308538.643883614 <<< :verne.freenode.net 372 eva :- We would like to thank Private Internet Access
+1500308538.654286007 <<< :verne.freenode.net 372 eva :- (https://www.privateinternetaccess.com/) and the other
+1500308538.664054026 <<< :verne.freenode.net 372 eva :- organisations that help keep freenode and our other projects
+1500308538.672492032 <<< :verne.freenode.net 372 eva :- running for their sustained support.
+1500308538.680773301 <<< :verne.freenode.net 372 eva :-  
+1500308538.690718126 <<< :verne.freenode.net 372 eva :- In particular we would like to thank the sponsor
+1500308538.700946833 <<< :verne.freenode.net 372 eva :- of this server, details of which can be found above.
+1500308538.710724464 <<< :verne.freenode.net 372 eva :-  
+1500308538.719899564 <<< :verne.freenode.net 372 eva :- By connecting to freenode you indicate that you have read and
+1500308538.730934929 <<< :verne.freenode.net 372 eva :- agree with our policies and guidelines as published on
+1500308538.739940582 <<< :verne.freenode.net 372 eva :- https://freenode.net
+1500308538.748844646 <<< :verne.freenode.net 376 eva :End of /MOTD command.
+1500308538.756482842 <<< :eva MODE eva :+i
+1500308543.095879876 <<< :eva!~eva@jem75-2-82-233-234-235.fbx.proxad.net JOIN #proglangdesign
+1500308544.176615319 <<< :verne.freenode.net 332 eva #proglangdesign :Discussion of programming languages; tell us about your new/radical ideas and new/lesser known languages!  See the website at http://www.proglangdesign.net/ and /r/ProgrammingLanguages.
+1500308544.189620009 <<< :verne.freenode.net 333 eva #proglangdesign Athas!athas@sigkill.dk 1500307200
+1500308544.202463735 <<< :verne.freenode.net 353 eva = #proglangdesign :eva rohitpaulk CoderPuppy aoeu aerx sepp2k aleph- Menche_ mabynogy GeDaMo lysgaard[m] Maxdamantus sirdancealot JanC Levex neechoo stoopkid_ exit70 mdash dash Sgeo pb122 air zgrep messenger[m] dinosaure happybot rain1 Boney jjuran spruit11 acertain hutsboR[m] yorickpeterse DarkArctic[m] wagle googol Zoxc neechoo[m] thesquib colonelj esainane qptain_Nemo tcardv LLB` CORDIC Ori_B pecan yumaikas knytt pandem beaky angasp flaviusb leswahn[m] jedb Ben42[m]
+1500308544.217455835 <<< :verne.freenode.net 353 eva = #proglangdesign :krok rtlich[m] byte[] veggero[m] rokn[m] BlackFox luabot thenameipicked[m suppi m1dnight_ jeaye @miasma relrod MohdSKhoeini[m] uwap akkartik ghostyyy Nycatelos editable-koo djinni` ChickeNES JX7P simon apache2 cjh` stormbrew vendu M4GNV5 mood dom96 oranges Pharyngeal Spark_ Cheery Jinxit hackerfoo m_hackerfoo htafdresgi iyy jrslepak o11c^ MrJones haldean FireFly zgrepc vikraman Intensity tm512 jill bg451 chrisseaton deltab mbrcknl izabera giucam diginet
+1500308544.227734456 <<< :verne.freenode.net 353 eva = #proglangdesign :Athas
+1500308544.237997048 <<< :verne.freenode.net 366 eva #proglangdesign :End of /NAMES list.
+1500308561.546088593 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :hello eva 
+1500308568.447292849 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :It's a bot
+1500308616.263674326 <<< :clsr!~clsr@clsr.net PRIVMSG eva :VERSION
+1500308616.858577537 >>> NOTICE clsr :VERSION sed (GNU sed) 4.4Copyright (C) 2017 Free Software Foundation, Inc.License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.This is free software: you are free to change and redistribute it.There is NO WARRANTY, to the extent permitted by law.Written by Jay Fenlason, Tom Lord, Ken Pizzini,and Paolo Bonzini.Page de GNU sed: <http://www.gnu.org/software/sed/
+1500308657.476957707 <<< :colonelj!~kernelj@unaffiliated/colonelj PRIVMSG #proglangdesign :eva 4eva logging
+1500308692.429077599 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :yes
+1500308736.502613797 <<< :miguelvesga!~miguelves@191.109.160.250 JOIN #proglangdesign
+1500308753.553820811 >>> PONG :verne.freenode.net
+1500308753.556502354 <<< PING :verne.freenode.net
+1500308836.149453323 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :We should have a bot for evaluating code in people's languages!
+1500308893.684732438 >>> PONG :verne.freenode.net
+1500308893.688226440 <<< PING :verne.freenode.net
+1500309005.661019853 <<< :arjanb!~chatzilla@84-245-9-67.dsl.cambrium.nl JOIN #proglangdesign
+1500309033.545676573 >>> PONG :verne.freenode.net
+1500309033.548174880 <<< PING :verne.freenode.net
+1500309053.843976823 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :yes!
+1500309101.451628047 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :each "designer" with his own vm to run his language
+1500309108.970734180 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :I can set something like that up.  Hardest task: naming the bot.
+1500309114.983386735 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :wrong
+1500309116.182390002 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :I have a more reasonable design in mind for that.
+1500309128.719157691 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :hardest task, designing and implementing a language for writing irc bots in
+1500309146.735153213 <<< :Sentreen!~Sentreen@d8d87685d.access.telenet.be JOIN #proglangdesign
+1500309173.606875047 >>> PONG :verne.freenode.net
+1500309173.609918170 <<< PING :verne.freenode.net
+1500309276.258880075 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :I call it "eva" but can change that for a better one
+1500309293.425636169 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :(the girlfriend of wall-e)
+1500309313.537508798 >>> PONG :verne.freenode.net
+1500309313.540183304 <<< PING :verne.freenode.net
+1500309453.544500332 >>> PONG :verne.freenode.net
+1500309453.547122905 <<< PING :verne.freenode.net
+1500309593.592392906 >>> PONG :verne.freenode.net
+1500309593.594794641 <<< PING :verne.freenode.net
+1500309616.801241429 <<< :rokn[m]!roknmatrix@gateway/shell/matrix.org/x-cvhbypedoyzjzbbc QUIT :*.net *.split
+1500309617.657157444 <<< :Pharyngeal!~Pharyngea@cortex.ventricle.us QUIT :*.net *.split
+1500309829.320796095 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :eva is a pretty good name for an evaluation bot, too.
+1500309829.815103907 >>> PONG :verne.freenode.net
+1500309829.817495403 <<< PING :verne.freenode.net
+1500309829.829431812 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :mabynogy: the way I'd design that bot, is that a language author writes a shell script that takes care of connecting to a machine that can evaluate the language.  That means the machine running the bot doesn't have to worry about VMs or implementation maintenance or any of that.
+1500309829.858395690 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :I already did such a Futhark command for another bot: https://github.com/Athas/EggsML/blob/master/concieggs/cmds/futhark
+1500309829.880974231 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :Works quite well.
+1500309888.063324395 <<< :jjuran!~jjuran@c-73-132-80-121.hsd1.md.comcast.net PRIVMSG #proglangdesign :https://en.wikipedia.org/wiki/Eva_(Nightwish_song)
+1500309957.028281218 <<< :FireFly!znc@freenode/staff/firefly PRIVMSG #proglangdesign :Eva is a pretty common name here, heh
+1500309978.576567911 >>> PONG :verne.freenode.net
+1500309978.579244225 <<< PING :verne.freenode.net
+1500310006.094391783 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :Athas: Why not just have each language author write a bot?
+1500310029.216090047 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :We could just create a shell wrapper for everyone to use.
+1500310069.875443212 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :Not everyone has a server, though.
+1500310082.292536161 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :ah interesting Athas 
+1500310118.626559371 >>> PONG :verne.freenode.net
+1500310118.628467380 <<< PING :verne.freenode.net
+1500310186.190138230 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :Although I believe you can get a small VM for free ($5/month credit) from Google Cloud, maybe Azure and Amazon too.
+1500310258.604604183 >>> PONG :verne.freenode.net
+1500310258.606698714 <<< PING :verne.freenode.net
+1500310329.172551963 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :I like that jjuran https://www.youtube.com/watch?v=TAsAwCmFJ6w
+1500310385.716587678 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :yes the bot I use can recognize commands https://git.clsr.net/mbibot/
+1500310398.556451341 >>> PONG :verne.freenode.net
+1500310398.559150705 <<< PING :verne.freenode.net
+1500310538.550819237 >>> PONG :verne.freenode.net
+1500310538.553760017 <<< PING :verne.freenode.net
+1500310678.543823058 >>> PONG :verne.freenode.net
+1500310678.545872875 <<< PING :verne.freenode.net
+1500310724.222577043 <<< :Intensity!iqgVNk41I-@panix5.panix.com QUIT :Ping timeout: 258 seconds
+1500310742.219334762 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :https://www.ramnode.com/ starts from 15$ per year
+1500310818.556351870 >>> PONG :verne.freenode.net
+1500310818.558465517 <<< PING :verne.freenode.net
+1500310956.091556000 <<< :user10032!~Thirteen@90.210.206.100 JOIN #proglangdesign
+1500310958.546622796 >>> PONG :verne.freenode.net
+1500310958.549255868 <<< PING :verne.freenode.net
+1500310968.143330960 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :yep mine is hosted on ramnode
+1500311098.517020103 >>> PONG :verne.freenode.net
+1500311098.519603201 <<< PING :verne.freenode.net
+1500311238.508849332 >>> PONG :verne.freenode.net
+1500311238.511700718 <<< PING :verne.freenode.net
+1500311378.549944458 >>> PONG :verne.freenode.net
+1500311378.551773783 <<< PING :verne.freenode.net
+1500311432.583457297 <<< :leswahn[m]!leswahnmat@gateway/shell/matrix.org/x-dvjfdaozirowfkjl QUIT :Ping timeout: 246 seconds
+1500311437.282994069 <<< :lysgaard[m]!lysgaardma@gateway/shell/matrix.org/x-kkuukfophhkncnzy QUIT :Ping timeout: 258 seconds
+1500311444.325265634 <<< :rtlich[m]!rotmatrixo@gateway/shell/matrix.org/x-wjekynevzvefbyux QUIT :Ping timeout: 255 seconds
+1500311453.596665613 <<< :neechoo[m]!neechoomat@gateway/shell/matrix.org/x-pfyoxvbmdlnwsfem QUIT :Ping timeout: 246 seconds
+1500311465.962297122 <<< :messenger[m]!messengerm@gateway/shell/matrix.org/x-mlcerqfkfuikcsny QUIT :Ping timeout: 255 seconds
+1500311467.639422913 <<< :thenameipicked[m!thenameipi@gateway/shell/matrix.org/x-deolkqkdxtdjbach QUIT :Ping timeout: 246 seconds
+1500311470.303129472 <<< :Ben42[m]!ben42matri@gateway/shell/matrix.org/x-tvcqdqkmykkjwzfi QUIT :Ping timeout: 264 seconds
+1500311471.679701725 <<< :MohdSKhoeini[m]!mkhoeinima@gateway/shell/matrix.org/x-yzcqrgphrarpmjgb QUIT :Ping timeout: 255 seconds
+1500311483.375838139 <<< :hutsboR[m]!hutsbormat@gateway/shell/matrix.org/x-mjescjjodunbkihp QUIT :Ping timeout: 258 seconds
+1500311483.651752757 <<< :mdash!washortgre@gateway/shell/matrix.org/x-bdilfnpufpwbpnrd QUIT :Ping timeout: 258 seconds
+1500311506.387227360 <<< :DarkArctic[m]!darkarctic@gateway/shell/matrix.org/x-txrcjeluobnorlto QUIT :Ping timeout: 264 seconds
+1500311506.596853500 <<< :veggero[m]!veggeromat@gateway/shell/matrix.org/x-jvozqhicfjanpmnx QUIT :Ping timeout: 264 seconds
+1500311518.538991891 >>> PONG :verne.freenode.net
+1500311518.541443543 <<< PING :verne.freenode.net
+1500311528.344001065 <<< :Intensity!73kjuCo2Mc@panix5.panix.com JOIN #proglangdesign
+1500311658.530660975 >>> PONG :verne.freenode.net
+1500311658.533274851 <<< PING :verne.freenode.net
+1500311798.524545848 >>> PONG :verne.freenode.net
+1500311798.527500882 <<< PING :verne.freenode.net
+1500311938.549747124 >>> PONG :verne.freenode.net
+1500311938.551771390 <<< PING :verne.freenode.net
+1500311962.590048495 <<< :thenameipicked[m!thenameipi@gateway/shell/matrix.org/x-ritqosddijgwxaqp JOIN #proglangdesign
+1500312078.509253771 >>> PONG :verne.freenode.net
+1500312078.511908985 <<< PING :verne.freenode.net
+1500312172.351471259 <<< :vendu!~vendu@unaffiliated/vendu PRIVMSG #proglangdesign :hey guys :)
+1500312218.546079639 >>> PONG :verne.freenode.net
+1500312218.548522791 <<< PING :verne.freenode.net
+1500312257.142817834 <<< :Ori_B!~ori_b@mimir.eigenstate.org PRIVMSG #proglangdesign :hi.
+1500312358.524971110 >>> PONG :verne.freenode.net
+1500312358.527160310 <<< PING :verne.freenode.net
+1500312498.599742379 >>> PONG :verne.freenode.net
+1500312498.602320975 <<< PING :verne.freenode.net
+1500312638.562651645 >>> PONG :verne.freenode.net
+1500312638.565058824 <<< PING :verne.freenode.net
+1500312705.573171681 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :hi Ori_B vendu 
+1500312778.532073490 >>> PONG :verne.freenode.net
+1500312778.534984488 <<< PING :verne.freenode.net
+1500312918.553134667 >>> PONG :verne.freenode.net
+1500312918.556061781 <<< PING :verne.freenode.net
+1500313036.635183951 <<< :HajdaM!~HajdaM@ip-89-103-110-124.net.upcbroadband.cz JOIN #proglangdesign
+1500313058.622050052 >>> PONG :verne.freenode.net
+1500313058.625596372 <<< PING :verne.freenode.net
+1500313198.613236257 >>> PONG :verne.freenode.net
+1500313198.616201382 <<< PING :verne.freenode.net
+1500313338.547195863 >>> PONG :verne.freenode.net
+1500313338.549722782 <<< PING :verne.freenode.net
+1500313347.897351638 <<< :aleph-!~hatter@gateway/tor-sasl/church- QUIT :Remote host closed the connection
+1500313384.271881676 <<< :vendu!~vendu@unaffiliated/vendu PRIVMSG #proglangdesign :hey :)
+1500313478.542216043 >>> PONG :verne.freenode.net
+1500313478.544708730 <<< PING :verne.freenode.net
+1500313537.697968173 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i could use some help for a stupid language thing
+1500313584.343373532 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :what thing?
+1500313618.571637788 >>> PONG :verne.freenode.net
+1500313618.574387608 <<< PING :verne.freenode.net
+1500313647.909489966 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :something that sort of looks like a subset of ksh
+1500313707.679260681 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :ok
+1500313758.548381536 >>> PONG :verne.freenode.net
+1500313758.550984956 <<< PING :verne.freenode.net
+1500313795.946416928 <<< :cpup-!~cpup@32.218.116.138 JOIN #proglangdesign
+1500313826.155505800 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i don't want most of the builtins in ksh
+1500313857.604470099 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :my goal is to find a subset that   1. can be efficiently compiled, and    2. that can manipulate raw memory
+1500313888.098210074 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :a kind of asm.js for shell
+1500313893.956587174 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :that's the gist of it
+1500313898.500581204 >>> PONG :verne.freenode.net
+1500313898.502485680 <<< PING :verne.freenode.net
+1500313901.066938301 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :and you that as a target?
+1500313907.316333546 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :very good idea
+1500313916.281653288 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :you forgot a word?
+1500313938.400771761 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :"use"
+1500313942.615017126 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :mispelled
+1500313981.391946654 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :you can find it automatically
+1500313981.886798065 <<< :CoderPuppy!~cpup@32.218.115.227 QUIT :Ping timeout: 255 seconds
+1500313994.578073819 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :what do you mean?
+1500314025.192271408 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :generate random programs to see the perfs
+1500314038.517026569 >>> PONG :verne.freenode.net
+1500314038.519660120 <<< PING :verne.freenode.net
+1500314040.145785002 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :"manipulate raw memory" as in dd of=/proc/self/mem ? :)
+1500314051.262990372 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :ah yes
+1500314072.561613547 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :dash: more like *(char *)0x12345 = 'x'
+1500314107.853821542 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :izabera: Is this for an embedded target?
+1500314113.998674268 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i think this is reasonably easy to do, i'll just have a byte array called memory and offset in it will reflect the underlying memory
+1500314116.990568908 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :hackerfoo: nope
+1500314120.053011345 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :as js is centered arout floats shell is centered aroud strings
+1500314128.617930625 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i don't even have a target yet, just defining the language
+1500314139.126841622 <<< :mabynogy!~mabynogy@jem75-2-82-233-234-235.fbx.proxad.net PRIVMSG #proglangdesign :something string-based like tcl
+1500314167.481115842 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :izabera: Okay. I've never really assignment to fixed memory locations outside of embedded applications, where the addresses are specified in the datasheet.
+1500314178.522719817 >>> PONG :verne.freenode.net
+1500314178.525223456 <<< PING :verne.freenode.net
+1500314178.535583957 <<< :rohitpaulk!~rohitpaul@49.205.90.217 QUIT :Ping timeout: 260 seconds
+1500314192.243102044 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :ah yes but i do plan to use this for even more stupid things that are off topic here
+1500314284.948513962 <<< :rohitpaulk!~rohitpaul@157.48.11.60 JOIN #proglangdesign
+1500314287.859835078 <<< :mdash!washortgre@gateway/shell/matrix.org/x-iqelmwaehdmzmcgp JOIN #proglangdesign
+1500314288.068069028 <<< :MohdSKhoeini[m]!mkhoeinima@gateway/shell/matrix.org/x-afdhtaxhuhabeazh JOIN #proglangdesign
+1500314288.082578689 <<< :rtlich[m]!rotmatrixo@gateway/shell/matrix.org/x-unfiubflqstlpuyd JOIN #proglangdesign
+1500314288.583084710 <<< :lysgaard[m]!lysgaardma@gateway/shell/matrix.org/x-cvliebscdnnicwst JOIN #proglangdesign
+1500314294.262610997 <<< :neechoo[m]!neechoomat@gateway/shell/matrix.org/x-yohcywqjzybeqflp JOIN #proglangdesign
+1500314294.464265372 <<< :DarkArctic[m]!darkarctic@gateway/shell/matrix.org/x-nzdddinmkcisdscg JOIN #proglangdesign
+1500314294.674372457 <<< :hutsboR[m]!hutsbormat@gateway/shell/matrix.org/x-gussygmhahtpeete JOIN #proglangdesign
+1500314294.685347003 <<< :rokn[m]!roknmatrix@gateway/shell/matrix.org/x-xahdkcmuitskpxje JOIN #proglangdesign
+1500314294.915305014 <<< :leswahn[m]!leswahnmat@gateway/shell/matrix.org/x-tditzzeaxhfqnsft JOIN #proglangdesign
+1500314295.466376058 <<< :messenger[m]!messengerm@gateway/shell/matrix.org/x-oynmectgjpvptrto JOIN #proglangdesign
+1500314295.659632368 <<< :veggero[m]!veggeromat@gateway/shell/matrix.org/x-ucivbmyaudqjxwcl JOIN #proglangdesign
+1500314296.246301871 <<< :Ben42[m]!ben42matri@gateway/shell/matrix.org/x-pepqqnsmsjxrhzcd JOIN #proglangdesign
+1500314318.542423680 >>> PONG :verne.freenode.net
+1500314318.545414810 <<< PING :verne.freenode.net
+1500314413.892918077 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :hackerfoo: just to have a uniform interface and avoid too many bots.
+1500314437.313552396 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :can never have too many bots
+1500314452.658044412 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :Yeah, how can there be too many bots?
+1500314458.566690676 >>> PONG :verne.freenode.net
+1500314458.568563469 <<< PING :verne.freenode.net
+1500314475.116765141 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :We can even have bot battles.
+1500314536.758168576 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :Seriously, though, a single bot makes it more complicated and introduces a single point of failure for little benefit.
+1500314598.540398217 >>> PONG :verne.freenode.net
+1500314598.543119073 <<< PING :verne.freenode.net
+1500314604.016708113 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :We can have a uniform interface by writing/forking a shared IRC bot wrapper.
+1500314613.815656515 <<< :`Guest00000!~Guest0000@37.113.166.21 JOIN #proglangdesign
+1500314624.382638129 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i wrote one
+1500314638.815589658 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :bots are super easy to write with it
+1500314648.839612725 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :and it's in bash
+1500314651.732810490 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :which is a big plus
+1500314671.302212973 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :izabera: link or it didn't happen :)
+1500314718.667374351 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :https://github.com/izabera/bibibi/blob/master/bibibi
+1500314718.879400766 <<< :Sentreen!~Sentreen@d8d87685d.access.telenet.be QUIT :Ping timeout: 268 seconds
+1500314738.581436458 >>> PONG :verne.freenode.net
+1500314738.583555611 <<< PING :verne.freenode.net
+1500314749.411049063 <<< :bibibi!~bibibi@unaffiliated/bibibi JOIN #proglangdesign
+1500314754.273956343 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :hi bibibi 
+1500314767.111576440 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :for which channel isn't offtopic not only general programming language discussion, but discussion of 'miscellaneous' languages like markup, langs for music/sound generations and other "data" langs?
+1500314776.740005342 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :test
+1500314780.027040341 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :it werks
+1500314787.561975151 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :i'm tying this with sed on a fifo
+1500314801.988266991 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :the fifo in line 7 in that script
+1500314828.702780344 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :srsly i wrote sed -u 's/privmsg #proglangdesign :/' > fifo
+1500314852.373990834 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :it would be worthwhile, if you are to tackle shell, to not try and inherit from the bourne shell design at all
+1500314856.262017111 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :nor the C shell
+1500314864.448476875 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :https://i.imgur.com/VQmbHkp.png
+1500314873.410318598 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :JX7P: but why
+1500314873.616628098 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :take cues from them at times, perhaps, but avoid basing your work on them - they are not good
+1500314878.541483070 >>> PONG :verne.freenode.net
+1500314878.544106466 <<< PING :verne.freenode.net
+1500314882.149940290 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :why
+1500314894.626270396 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i know the good and the bad part
+1500314901.751414806 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :there's a good part?
+1500314913.597608714 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :anyway
+1500314916.430449760 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :yeah like the quick prototyping part
+1500314927.067738202 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :`Guest00000: I don't think anyone would be upset about such discussions here.
+1500314933.801028015 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :`Guest00000: i would
+1500314936.996196573 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :me too
+1500314943.791279494 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :fuck off `Guest00000
+1500314945.814337304 <<< :bibibi!~bibibi@unaffiliated/bibibi PRIVMSG #proglangdesign :asshole
+1500314964.196997457 <<< :aleph-!~hatter@gateway/tor-sasl/church- JOIN #proglangdesign
+1500314967.418357042 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :the languages grew from the shell, i.e., the interface for launching programs. they grew piecemeal
+1500314989.249853539 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :JX7P: thanks for your feedback but i really want to do it my way
+1500314999.509246654 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :write your own shell with blackjack and hookers
+1500314999.935594120 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :in fact, 'language features' like [[ are implemented by programs, for example
+1500315014.527562442 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :you just proved that you don't know what you're talking about
+1500315018.545822842 >>> PONG :verne.freenode.net
+1500315018.548283581 <<< PING :verne.freenode.net
+1500315023.262457161 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :$ type [[
+1500315025.697875853 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :[[ is a shell keyword
+1500315032.956084488 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :Yeah, [[ is not, but [ is.
+1500315067.195336028 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :powershell is a more interesting take on shells, i think
+1500315075.748299115 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :izabera: are you familar with oil shell?
+1500315079.092902858 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :yes
+1500315083.793850212 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :being a carefully engineered language
+1500315096.505250863 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :carefully engineered == objects everywhere
+1500315116.959261105 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :`Guest00000: What data language would you like to discuss?
+1500315138.434118224 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :izabera: a good thing
+1500315150.679315686 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :ok, i don't care anyway
+1500315158.541110631 >>> PONG :verne.freenode.net
+1500315158.543561837 <<< PING :verne.freenode.net
+1500315165.236676714 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :the bourne shell is itself a case of 'objects everywhere,' they're called the programs on the system
+1500315192.576096626 <<< :Athas!athas@sigkill.dk PRIVMSG #proglangdesign :JX7P: I'm not sure that's a useful metaphor.  Unix tools are (hopefully) not stateful.
+1500315196.485622983 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :i wanted to ask about a 3d mesh definition language, but turns out today i'm better at googling
+1500315203.661421037 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :but anyway
+1500315206.848889558 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :i need such a language
+1500315209.366541689 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i don't want to argue whether bourne sh is a well designed language or not
+1500315214.379626391 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :I don't think there is a strong distinction between a programming language and a "data" language, because all formal languages tend torwards Turing completeness.
+1500315216.349010523 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :in fact i do know it's not
+1500315242.378178420 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :`Guest00000: I'm interested in what you find.
+1500315263.226027393 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :for the purpose of defining 3d models by writing a script in such a language by hand
+1500315270.628506532 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :if you want to do something based on bourne shell, by all means do, i'm not saying you can't; i'm just suggesting that it would not be a wise root if the end result is supposed to be simple
+1500315285.596887458 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :Athas: in many ways, that's the trouble - the state is everywhere
+1500315296.351374143 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :I wrote a mesh CSG kernel, based on 3D convex hulls.
+1500315298.574063848 >>> PONG :verne.freenode.net
+1500315298.577014356 <<< PING :verne.freenode.net
+1500315307.416610327 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :the end result is supposed to be something that pleases my refined taste
+1500315352.410030375 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :`Guest00000: I used to use POV-Ray a lot, it's unfortunate that it can't generate meshes.
+1500315367.339178607 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :not only that, but messaging is totally free-form and wildly varies - in the past there were some standards on it, but because of the shell's dual use as an end user environment and a programming language, things have changed
+1500315403.033037009 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :hackerfoo: Eh, only ones that have conditionals or control flow
+1500315407.784351142 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :now there are tricks designed to test if one is invoking a program from without or within a script
+1500315416.848933619 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :`Guest00000: Have you looked at OpenSCAD?
+1500315436.599495988 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :JX7P: literally nothing changed about that in the past 20 years
+1500315438.526421439 >>> PONG :verne.freenode.net
+1500315438.529040770 <<< PING :verne.freenode.net
+1500315455.328002468 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :">now< there are tricks..."
+1500315456.367688604 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :hackerfoo: JSON, Markdown, or ASDL are unlikely to have this problem
+1500315461.823965082 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :izabera, yes it has
+1500315471.737558317 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :ls gives me colourful output in columns
+1500315471.932262203 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :no it has not
+1500315473.423589338 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :izabera: have better taste
+1500315481.522086180 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :dash: thanks for your input 
+1500315486.085624910 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :np
+1500315495.058473383 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :JX7P: that's not even part of the shell
+1500315495.690435770 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :hackerfoo: thanks
+1500315507.075444709 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :again you don't even know what you're talking about
+1500315510.088697164 <<< :Sentreen!~Sentreen@d8D87685D.access.telenet.be JOIN #proglangdesign
+1500315522.368483633 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :izabera: ok, neither are many other things
+1500315527.917603882 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :and i'm well aware of what i'm talking about
+1500315541.580228292 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i think you're not and you're just a moron
+1500315548.954658992 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :i'm a former illumos contributor. you know, UNIX
+1500315554.346115767 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :cool
+1500315559.093044456 <<< :hackerfoo!~hackerfoo@48.73.154.104.bc.googleusercontent.com PRIVMSG #proglangdesign :`Guest00000: No problem. Feel free to PM me if you want; I've spent a lot of time working on 3D computational geometry.
+1500315576.646049219 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :it's no surprise that FreeBSD has adopted a library to make their userland allow JSON output for more easy use programmatically
+1500315577.182055455 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :i worked on a filesystem for solaris that's been ported to illumos with great pain
+1500315578.538708500 >>> PONG :verne.freenode.net
+1500315578.541482650 <<< PING :verne.freenode.net
+1500315586.594556860 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :you know, unix
+1500315618.767236553 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :what filesystem?
+1500315634.263517458 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :something proprietary built on top of zfs
+1500315655.793692478 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :i'm genuinely impressed
+1500315672.414807543 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :i'd have thought zfs had enough in it that no kitchen sink would be needed on top
+1500315708.516584142 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :turns out you can add features and leverage zfs 
+1500315718.532089503 >>> PONG :verne.freenode.net
+1500315718.534731867 <<< PING :verne.freenode.net
+1500315735.893713039 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :http://infinity-storage.com/products.html  this thing </spam>
+1500315810.649144903 <<< :apache2!apache2@anubis.0x90.dk PRIVMSG #proglangdesign :JX7P: re: JSON output: yeah, and especially not a surprise since the plan 9 people came to that realization (that tree structures > flat streams of data) and rewrote their OS with native serialization (Inferno)
+1500315839.182270400 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :apache2: it's a pain that afflicted many
+1500315858.547660197 >>> PONG :verne.freenode.net
+1500315858.550646395 <<< PING :verne.freenode.net
+1500315867.493157296 <<< :apache2!apache2@anubis.0x90.dk PRIVMSG #proglangdesign :but yeah, freebsd adopting ideas younger than 30 years is pretty amazing
+1500315869.634482079 <<< :apache2!apache2@anubis.0x90.dk PRIVMSG #proglangdesign :;)
+1500315880.514545329 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :smalltalk-72 was free-form in that way, dropped in favour of fixed messaging syntax in -76
+1500315965.288580470 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :this meant that you could no longer have `if x = 5 then stdout print "hello" end` and had instead to suffice oneself with `x = 5 ifTrue: [ stdout print: 'hello' ]`
+1500315987.241752067 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :(if was an object)
+1500315994.658257672 <<< :apache2!apache2@anubis.0x90.dk PRIVMSG #proglangdesign :btw I believe the exchange of pleasantries between you and izabera was sparked by the discussion of tty-detection output modes for ls?
+1500315998.550030027 >>> PONG :verne.freenode.net
+1500315998.552500287 <<< PING :verne.freenode.net
+1500316007.947426182 <<< :izabera!~izabera@unaffiliated/izabera PRIVMSG #proglangdesign :not at all
+1500316011.347882887 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :JX7P: we recently added a feature to monte (that was prototyped for E) that's a middle way, I think
+1500316033.165149811 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :more broadly shell as a language
+1500316060.646737916 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :dash, ah, is that the `-enclosed quasiliterals? i thought that looked like an interesting approach
+1500316083.477121883 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :JX7P: nah, we had that for a while, it's the syntax that inspired JS's template strings
+1500316105.927658593 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :(Monte is basically a straight ripoff of Mark Miller & friends' language E, http://erights.org/ )
+1500316138.525072968 >>> PONG :verne.freenode.net
+1500316138.527730454 <<< PING :verne.freenode.net
+1500316146.696341692 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :having one's features stolen by javascript is probably quite the accolade
+1500316167.419768120 <<< :apache2!apache2@anubis.0x90.dk PRIVMSG #proglangdesign :speaking of friends, does anyone have experience with ASN.1 and friends? I'd like to find someone who has worked with ECN and could answer some questions
+1500316173.279508214 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :well, Miller is on the ECMAScript committee
+1500316186.999842526 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :dash: E is very interesting and it's nice to see Monte pushing object-capabilities as it is
+1500316188.295809466 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :so he pushed the idea himself, probably
+1500316204.325476393 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :i also found https://en.wikipedia.org/wiki/Generative_Modelling_Language which looks somewhat like what i need
+1500316209.318062184 <<< :`Guest00000!~Guest0000@37.113.166.21 PRIVMSG #proglangdesign :i need something simple, though
+1500316219.733849721 <<< :aoeu!uid190890@gateway/web/irccloud.com/x-jodrridzkaedyyxr QUIT :Quit: Connection closed for inactivity
+1500316234.844064476 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :JX7P: The only major differences between Monte and E are 1) whitespacey syntax 2) external iteration (python style, not ruby/smalltalk style) 3) modern implementation
+1500316259.682815525 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :the E Liberation Front (known as Elf for short) sadly seemed to fall to the fate of most good ideas: languishing in obscurity for years then badly tacked on to existing models ("object capability security" is often a byword for complexity today, unfortunately)
+1500316278.530580242 >>> PONG :verne.freenode.net
+1500316278.533250709 <<< PING :verne.freenode.net
+1500316301.315399050 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :I think it's more that _tacking things on to existing models_ is a byword for complexity
+1500316309.400269596 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :JX7P: anyway the new thing is syntax of the form "IDENTIFIER (expr ...) VERB { block } VERB pattern ... { block }"
+1500316324.775469445 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :so you can write your own flow control operator style code
+1500316367.664443911 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :ah, that's quite a decent compromise
+1500316383.155034683 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :the initial exprs and the blocks get turned into functions and passed to the control object 
+1500316410.195123404 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :our motto is "we stole from the best"
+1500316418.553610888 >>> PONG :verne.freenode.net
+1500316418.555981470 <<< PING :verne.freenode.net
+1500316478.001862697 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :can one do things like implementing `if (x | y)` such that y is not evaluated if x is true?
+1500316487.952691680 <<< :Sentreen!~Sentreen@d8D87685D.access.telenet.be QUIT :Ping timeout: 260 seconds
+1500316558.382719458 >>> PONG :verne.freenode.net
+1500316558.385161728 <<< PING :verne.freenode.net
+1500316614.365511997 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :it doesn't seem to fit well with the smalltalk model of operators-as-messages (it would be odd to define an | operator to take a block specifically rather than any value)
+1500316647.038860038 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :and no one wants to type [ x ] | [ y ], or the ugly x | [ y ], to represent that semantic
+1500316698.408445429 >>> PONG :verne.freenode.net
+1500316698.411126063 <<< PING :verne.freenode.net
+1500316771.888397928 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :JX7P: no, definitely not going to allow that level of control-flow surprise
+1500316799.016284859 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :monte has && and || like normal, as sugar
+1500316838.432456931 >>> PONG :verne.freenode.net
+1500316838.434812651 <<< PING :verne.freenode.net
+1500316846.846813289 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :from using C a lot i developed the bad habit of using && and || for side effects 
+1500316855.828515383 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :yep our expansion supports that
+1500316869.633279464 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :i.e. doX() || doY() // Y must be done if X fails
+1500316945.838626071 <<< :JX7P!~IRIX@freebsd/user/kastengraeber PRIVMSG #proglangdesign :another pattern i used a lot in C/++ is if (X && X.suitableForUse()) doSomethingWith(X); but to what extent that's useful when null is rare or not harmful to send messages to (as in objc) i'm not sure
+1500316961.996592330 <<< :rain1!~rain1@unaffiliated/rain1 QUIT :Read error: Connection reset by peer
+1500316978.424816648 >>> PONG :verne.freenode.net
+1500316978.427660241 <<< PING :verne.freenode.net
+1500316998.535901332 <<< :dash!~washort@greyface.org PRIVMSG #proglangdesign :ah, yeah, we don't use iverson's convention, it's java style gotta-have-a-boolean
